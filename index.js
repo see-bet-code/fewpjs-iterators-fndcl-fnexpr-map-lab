@@ -20,5 +20,5 @@ function titleCase(string) {
 }
 
 const titleCased = () => {
-  return tutorials.map(titleCase)
+  return tutorials.map(titleCase);
 }
